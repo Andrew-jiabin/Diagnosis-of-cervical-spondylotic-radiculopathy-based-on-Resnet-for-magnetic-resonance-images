@@ -1,0 +1,1 @@
+# Diagnosis-of-cervical-spondylotic-radiculopathy-based-on-Resnet-for-magnetic-resonance-images
